@@ -1,0 +1,1 @@
+![Calculator screenshot](view.png)
